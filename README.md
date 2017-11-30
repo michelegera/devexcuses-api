@@ -1,24 +1,30 @@
-# README
+# dev-excuses-api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+`dev-excuses-api` provides a modern, RESTful, scalable solution to developers’
+common problem of finding an excuse to justify their sloppy work.
 
-Things you may want to cover:
+Please see https://devexcus.es for API documentation and examples.
 
-* Ruby version
+## Installation
 
-* System dependencies
+    bundle install
+    rails db:setup
 
-* Configuration
+## Run
 
-* Database creation
+    rails server
 
-* Database initialization
+## Test
 
-* How to run the test suite
+    bundle exec rspec
 
-* Services (job queues, cache servers, search engines, etc.)
+## Contributing
 
-* Deployment instructions
+To add a new excuses:
 
-* ...
+1. Fork the repository into your account
+2. Branch into a feature branch `feature/your-excuses`
+3. Add excuses, using `db/seeds.rb`.
+4. Push to your fork and submit a PR.
+
+All contributions are very welcome.
