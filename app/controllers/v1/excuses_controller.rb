@@ -4,7 +4,7 @@ module V1
 
     # GET /excuses
     def index
-      @excuses = Excuse.all
+      @excuses = Excuse.all.paginate(page: params[:page], per_page: 20)
       json_response(@excuses)
     end
 
