@@ -5,5 +5,7 @@ Rails.application.routes.draw do
         get :random
       end
     end
+
+    root to: 'excuses#random'
   end
 end
