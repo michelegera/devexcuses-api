@@ -15,3 +15,5 @@
 
 .byebug_history
 .env
+.ruby-gemset
+.rvmrc
