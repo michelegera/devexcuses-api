@@ -17,3 +17,5 @@
 .env
 .ruby-gemset
 .rvmrc
+
+localhost*.pem

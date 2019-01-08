@@ -10,6 +10,11 @@ Please see https://devexcus.es for API documentation and examples.
     bundle install
     rails db:setup
 
+    # SSL support in development, defaults to port 9292
+    brew install mkcert
+    mkcert -install
+    mkcert localhost
+
 ## Run
 
     rails server
