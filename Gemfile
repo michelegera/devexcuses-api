@@ -6,7 +6,8 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'rails', '~> 5.1.4'
+gem 'rails', '~> 5.2.2'
+gem 'bootsnap', require: false
 gem 'pg', '~> 0.18'
 gem 'puma', '~> 3.7'
 gem 'active_model_serializers', '~> 0.10.7'
