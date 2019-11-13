@@ -76,6 +76,7 @@ EXCUSES = [
   'Our hardware is too slow to cope with demand.',
   'Our internet connection must not be working.',
   'Our redundant systems must have failed as well.',
+  'Please ignore that, it’s for debugging',
   'Somebody must have changed my code.',
   'THIS can’t be the source of THAT.',
   'That behaviour is in the original specification.',
@@ -98,6 +99,7 @@ EXCUSES = [
   'The client must have been hacked.',
   'The client wanted it changed at the last minute.',
   'The code is compiling.',
+  'The DNS hasn’t propagated yet.',
   'The download must have been corrupted.',
   'The existing design makes it difficult to do the right thing.',
   'The marketing department made us put that there.',
@@ -127,6 +129,7 @@ EXCUSES = [
   'Why do you want to do it that way?',
   'You must have done something wrong.',
   'You’re doing it wrong.',
+  'You must have the wrong version.',
  ].freeze
 
 EXCUSES.each { |excuse| Excuse.create(text: excuse) }
