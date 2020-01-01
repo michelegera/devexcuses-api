@@ -9,7 +9,7 @@ end
 gem 'rails', '~> 5.2.2'
 gem 'bootsnap', require: false
 gem 'pg', '~> 0.18'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 3.12'
 gem 'active_model_serializers', '~> 0.10.7'
 gem 'will_paginate', '~> 3.1.6'
 
