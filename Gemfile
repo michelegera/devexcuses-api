@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.7.0'
+ruby '3.0.1'
 
 gem 'rails', '~> 6.1.3.1'
 gem 'bootsnap', require: false
