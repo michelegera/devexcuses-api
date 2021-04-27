@@ -2,10 +2,14 @@
 
 [![Build Status](https://travis-ci.com/michelegera/devexcuses-api.svg?branch=main)](https://travis-ci.com/michelegera/devexcuses-api)
 
+> What’s your excuse?
+
 `devexcuses-api` provides a modern, RESTful, scalable solution to developers’
 common problem of finding an excuse to justify their sloppy work.
 
-Please see https://devexcus.es for API documentation and examples.
+Please see https://api.devexcus.es/.
+
+API documentation and examples are coming soon.
 
 ## Installation
 
