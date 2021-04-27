@@ -23,12 +23,6 @@ Please see https://devexcus.es for API documentation and examples.
 
     bundle exec rspec
 
-## Running on Ruby 2.7
-
-To silence Ruby 2.7 deprecation warnings:
-
-    export RUBYOPT='-W:no-deprecated -W:no-experimental'
-
 ## Contributing
 
 To add a new excuses:
