@@ -1,5 +1,7 @@
 # dev-excuses-api
 
+[![Build Status](https://travis-ci.com/michelegera/dev-excuses-api.svg?branch=main)](https://travis-ci.com/michelegera/dev-excuses-api)
+
 `dev-excuses-api` provides a modern, RESTful, scalable solution to developers’
 common problem of finding an excuse to justify their sloppy work.
 
