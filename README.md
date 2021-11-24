@@ -18,6 +18,7 @@ API documentation and examples are coming soon.
 
     # SSL support in development, defaults to port 9292
     brew install mkcert
+    brew install nss
     mkcert -install
     mkcert localhost
 
