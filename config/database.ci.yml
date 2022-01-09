@@ -1,0 +1,4 @@
+test:
+  adapter: postgres
+  encoding: utf8
+  url: 'postgres://ci_user:ci_password@localhost/test'

@@ -1,6 +1,6 @@
 # devexcuses-api
 
-[![Build Status](https://travis-ci.com/michelegera/devexcuses-api.svg?branch=main)](https://travis-ci.com/michelegera/devexcuses-api)
+[![Build status](https://github.com/michelegera/devexcuses-api/actions/workflows/build.yml/badge.svg)](https://github.com/michelegera/devexcuses-api/actions/workflows/build.yml)
 
 > What’s your excuse?
 
