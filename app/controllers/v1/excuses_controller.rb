@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module V1
   class ExcusesController < ApplicationController
     before_action :set_excuse, only: [:show]

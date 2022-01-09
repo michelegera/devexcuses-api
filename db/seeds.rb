@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Seed the database with a bunch of excuses.
 #
 # The data can be loaded with the `rails db:seed` command, or created alongide
@@ -114,7 +116,7 @@ EXCUSES = [
   'The user must not know how to use it.',
   'There must be something strange in your data.',
   'There was too little data to bother with the extra functionality at the '\
-    'time.',
+  'time.',
   'There’s currently a problem with our hosting company.',
   'This code was not supposed to go in to production yet.',
   'This is a previously known bug you told me not to work on yet.',
@@ -129,7 +131,7 @@ EXCUSES = [
   'Why do you want to do it that way?',
   'You must have done something wrong.',
   'You’re doing it wrong.',
-  'You must have the wrong version.',
- ].freeze
+  'You must have the wrong version.'
+].freeze
 
 EXCUSES.each { |excuse| Excuse.create(text: excuse) }

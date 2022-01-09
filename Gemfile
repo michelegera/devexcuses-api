@@ -1,25 +1,27 @@
+# frozen_string_literal: true
+
 source 'https://rubygems.org'
 ruby '3.0.1'
 
-gem 'rails', '~> 7.0.1'
 gem 'blueprinter'
 gem 'bootsnap', require: false
 gem 'oj'
 gem 'pg'
 gem 'puma'
+gem 'rails', '~> 7.0.1'
 gem 'will_paginate'
 
 group :development, :test do
-  gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
-  gem 'rspec-rails'
+  gem 'byebug', platforms: %i[mri mingw x64_mingw]
   gem 'dotenv-rails'
+  gem 'rspec-rails'
 end
 
 group :test do
-  gem 'factory_bot_rails'
-  gem 'shoulda-matchers'
-  gem 'faker'
   gem 'database_cleaner'
+  gem 'factory_bot_rails'
+  gem 'faker'
+  gem 'shoulda-matchers'
 end
 
 group :development do

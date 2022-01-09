@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'rails_helper'
 
 RSpec.describe 'Excuses API', type: :request do
@@ -32,7 +34,8 @@ RSpec.describe 'Excuses API', type: :request do
     end
 
     context 'when the record does not exist' do
-      let (:excuse_id) { 1_000 }
+      let(:excuse_id) { 1_000 }
+
       it 'returns a not found message' do
         expect(response.body).to match(/Couldn't find Excuse/)
       end

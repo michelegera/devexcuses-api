@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class AddUuidToExcuses < ActiveRecord::Migration[6.0]
   def up
     add_column :excuses, :uuid, :uuid, default: 'gen_random_uuid()', null: false
