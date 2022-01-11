@@ -2,10 +2,11 @@ source 'https://rubygems.org'
 ruby '3.0.1'
 
 gem 'rails', '~> 6.1.4.1'
+gem 'blueprinter'
 gem 'bootsnap', require: false
+gem 'oj'
 gem 'pg'
 gem 'puma'
-gem 'active_model_serializers'
 gem 'will_paginate'
 
 group :development, :test do

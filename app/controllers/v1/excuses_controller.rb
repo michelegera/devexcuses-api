@@ -5,18 +5,18 @@ module V1
     # GET /excuses
     def index
       @excuses = Excuse.all.paginate(page: params[:page], per_page: 20)
-      json_response(@excuses)
+      json_response(@excuses, blueprint: ExcuseBlueprint)
     end
 
     # GET /excuses/:id
     def show
-      json_response(@excuse)
+      json_response(@excuse, blueprint: ExcuseBlueprint)
     end
 
     # GET /excuses/random
     def random
       @excuse = Excuse.order('random()').first
-      json_response(@excuse)
+      json_response(@excuse, blueprint: ExcuseBlueprint)
     end
 
     private
