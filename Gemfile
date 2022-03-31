@@ -8,7 +8,7 @@ gem 'bootsnap', require: false
 gem 'oj'
 gem 'pg'
 gem 'puma'
-gem 'rails', '~> 7.0.2.2'
+gem 'rails', '~> 7.0.2.3'
 gem 'will_paginate'
 
 group :development, :test do
