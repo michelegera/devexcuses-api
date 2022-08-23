@@ -11,7 +11,7 @@ gem 'maxminddb'
 gem 'oj'
 gem 'pg'
 gem 'puma'
-gem 'rails', '~> 7.0.2.3'
+gem 'rails', '~> 7.0.3.1'
 gem 'will_paginate'
 
 group :development, :test do
