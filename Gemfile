@@ -3,8 +3,11 @@
 source 'https://rubygems.org'
 ruby '3.0.1'
 
+gem 'ahoy_matey'
 gem 'blueprinter'
 gem 'bootsnap', require: false
+gem 'geocoder'
+gem 'maxminddb'
 gem 'oj'
 gem 'pg'
 gem 'puma'
