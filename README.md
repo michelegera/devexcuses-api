@@ -30,6 +30,12 @@ API documentation and examples are coming soon.
 
     bundle exec rspec
 
+## In the wild
+
+This API is used to power the following projects:
+
+- [Wasp `Dev Excuses app` tutorial][wasp]
+
 ## Contributing
 
 To add a new excuses:
@@ -40,3 +46,5 @@ To add a new excuses:
 4. Push to your fork and submit a PR.
 
 All contributions are very welcome.
+
+[wasp]: https://wasp-lang.dev/docs/tutorials/dev-excuses-app
