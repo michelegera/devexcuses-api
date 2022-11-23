@@ -115,7 +115,7 @@ EXCUSES = [
   'The third party documentation doesn’t exist.',
   'The user must not know how to use it.',
   'There must be something strange in your data.',
-  'There was too little data to bother with the extra functionality at the '\
+  'There was too little data to bother with the extra functionality at the ' \
   'time.',
   'There’s currently a problem with our hosting company.',
   'This code was not supposed to go in to production yet.',

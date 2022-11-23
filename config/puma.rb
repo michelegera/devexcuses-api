@@ -42,4 +42,4 @@ plugin :tmp_restart
 # SSL
 cert = 'localhost.pem'
 key = 'localhost-key.pem'
-ssl_bind '0.0.0.0', 9292, cert: cert, key: key
+ssl_bind '0.0.0.0', 9292, cert:, key:
