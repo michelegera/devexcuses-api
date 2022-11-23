@@ -217,7 +217,7 @@ GEM
     ruby-progressbar (1.11.0)
     safely_block (0.3.0)
       errbase (>= 0.1.1)
-    shoulda-matchers (5.1.0)
+    shoulda-matchers (5.2.0)
       activesupport (>= 5.2.0)
     spring (4.1.0)
     spring-watcher-listen (2.1.0)
