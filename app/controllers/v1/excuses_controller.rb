@@ -17,7 +17,7 @@ module V1
 
     # GET /excuses/random
     def random
-      @excuse = Excuse.order('random()').first
+      @excuse = Excuse.all.sample
       json_response(@excuse, blueprint: ExcuseBlueprint)
     end
 

@@ -2,8 +2,9 @@
 
 source 'https://rubygems.org'
 
-gem 'ahoy_matey'
 ruby '3.2.0'
+
+gem 'ahoy_matey'
 gem 'blueprinter'
 gem 'bootsnap', require: false
 gem 'geocoder'
