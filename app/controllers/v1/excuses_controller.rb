@@ -6,7 +6,7 @@ module V1
 
     # GET /excuses
     def index
-      @excuses = Excuse.all.paginate(page: params[:page], per_page: 20)
+      @excuses = Excuse.all
       json_response(@excuses, blueprint: ExcuseBlueprint)
     end
 
@@ -17,7 +17,7 @@ module V1
 
     # GET /excuses/random
     def random
-      @excuse = Excuse.order('random()').first
+      @excuse = Excuse.all.sample
       json_response(@excuse, blueprint: ExcuseBlueprint)
     end
 

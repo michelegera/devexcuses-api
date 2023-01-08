@@ -1,0 +1,10 @@
+- id: 1
+  text: "I’m sorry, I can’t come to work today. I have a headache."
+- id: 2
+  text: "I’m sorry, I can’t come to work today. I have a stomachache."
+- id: 3
+  text: "I’m sorry, I can’t come to work today. I have a fever."
+- id: 4
+  text: "I’m sorry, I can’t come to work today. I have a cold."
+- id: 5
+  text: "I’m sorry, I can’t come to work today. I have a sore throat."

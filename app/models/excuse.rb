@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-class Excuse < ApplicationRecord
-  self.implicit_order_column = 'created_at'
+class Excuse < ActiveYaml::Base
+  set_root_path Rails.env.test? ? Rails.root.join('spec') : Rails.root.join('data')
 
-  validates :text, presence: true
+  field :text
 end
