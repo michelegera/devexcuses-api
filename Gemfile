@@ -12,8 +12,6 @@ gem 'puma'
 gem 'rails', '~> 7.0.4'
 
 group :development, :test do
-  gem 'byebug', platforms: %i[mri mingw x64_mingw]
-  gem 'dotenv-rails'
   gem 'rspec-rails'
 end
 
@@ -22,9 +20,6 @@ group :test do
 end
 
 group :development do
-  gem 'listen'
   gem 'overcommit'
   gem 'rubocop-rails', require: false
-  gem 'spring'
-  gem 'spring-watcher-listen'
 end
