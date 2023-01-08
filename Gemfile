@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
-ruby '3.1.1'
 
 gem 'ahoy_matey'
+ruby '3.2.0'
 gem 'blueprinter'
 gem 'bootsnap', require: false
 gem 'geocoder'
