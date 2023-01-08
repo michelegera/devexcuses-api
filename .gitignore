@@ -13,9 +13,10 @@
 !/log/.keep
 !/tmp/.keep
 
-.byebug_history
-.env
-.ruby-gemset
-.rvmrc
+# Ignore pidfiles, but keep the directory.
+/tmp/pids/*
+!/tmp/pids/
+!/tmp/pids/.keep
 
+# Ignore localhost certificates
 localhost*.pem

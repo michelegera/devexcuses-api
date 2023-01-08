@@ -6,9 +6,3 @@
 require_relative 'config/application'
 
 Rails.application.load_tasks
-
-namespace :assets do
-  task precompile: :environment do
-    puts 'Not precompiling assets...'
-  end
-end
