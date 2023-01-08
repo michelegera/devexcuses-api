@@ -3,15 +3,12 @@
 require 'rails_helper'
 
 RSpec.describe 'Excuses API', type: :request do
-  let!(:excuses) { create_list(:excuse, 10) }
-  let(:excuse_id) { excuses.first.id }
-
   describe 'GET /excuses' do
     before { get '/excuses' }
 
     it 'returns excuses' do
       expect(json).not_to be_empty
-      expect(json.size).to eq(10)
+      expect(json.size).to eq(5)
     end
 
     it 'returns status code 200' do
@@ -23,6 +20,8 @@ RSpec.describe 'Excuses API', type: :request do
     before { get "/excuses/#{excuse_id}" }
 
     context 'when the record exists' do
+      let(:excuse_id) { 1 }
+
       it 'returns the excuse' do
         expect(json).not_to be_empty
         expect(json['id']).to eq(excuse_id)

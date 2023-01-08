@@ -1,0 +1,250 @@
+- id: 1
+  text: "Actually, that’s a feature."
+- id: 2
+  text: "Did you check for a virus on your system?"
+- id: 3
+  text: "Even though it doesn’t work, how does it feel?"
+- id: 4
+  text: "Everything looks fine on my end."
+- id: 5
+  text: "How is that possible?"
+- id: 6
+  text: "I broke that deliberately to do some testing."
+- id: 7
+  text: "I can’t make that a priority right now."
+- id: 8
+  text: "I can’t test everything."
+- id: 9
+  text: "I couldn’t find any examples of how that can be done anywhere online."
+- id: 10
+  text: "I couldn’t find any library that can even do that."
+- id: 11
+  text: "I did a quick fix last time but it broke when we rebooted."
+- id: 12
+  text: "I didn’t anticipate that I would make any errors."
+- id: 13
+  text: "I didn’t create that part of the program."
+- id: 14
+  text: "I didn’t receive a ticket for it."
+- id: 15
+  text: "I forgot to commit the code that fixes that."
+- id: 16
+  text: "I have never seen that before in my life."
+- id: 17
+  text: "I have too many other high priority things to do right now."
+- id: 18
+  text: "I haven’t been able to reproduce that."
+- id: 19
+  text: "I haven’t had a chance to run that code yet."
+- id: 20
+  text: "I haven’t had any experience with that before."
+- id: 21
+  text: "I haven’t touched that code in weeks."
+- id: 22
+  text: "I heard there was a solar flare today."
+- id: 23
+  text: "I must have been stress-testing our production server."
+- id: 24
+  text: "I must not have understood what you were asking for."
+- id: 25
+  text: "I thought I finished that."
+- id: 26
+  text: "I thought he knew the context of what I was talking about."
+- id: 27
+  text: "I thought you signed off on that."
+- id: 28
+  text: "I told you yesterday it would be done by the end of today."
+- id: 29
+  text: "I usually get a notification when that happens."
+- id: 30
+  text: "I was just fixing that."
+- id: 31
+  text: "I was told to stop working on that when something important came up."
+- id: 32
+  text: "In the interest of efficiency I only check my email for that on a Friday."
+- id: 33
+  text: "It can’t be broken, it passes all unit tests."
+- id: 34
+  text: "It must be a hardware problem."
+- id: 35
+  text: "It must be because of a leap year."
+- id: 36
+  text: "It probably won’t happen again."
+- id: 37
+  text: "It was working in my head."
+- id: 38
+  text: "It works for me."
+- id: 39
+  text: "It works, but it’s not been tested."
+- id: 40
+  text: "It would have taken twice as long to build it properly."
+- id: 41
+  text: "It would take too long to rewrite the code from scratch."
+- id: 42
+  text: "It’s a browser compatibility issue."
+- id: 43
+  text: "It’s a character encoding issue."
+- id: 44
+  text: "It’s a compatibility issue."
+- id: 45
+  text: "It’s a known bug with the programming language."
+- id: 46
+  text: "It’s a remote vendor issue."
+- id: 47
+  text: "It’s always been like that."
+- id: 48
+  text: "It’s an unexpected emergent behaviour of several last minute abstractions."
+- id: 49
+  text: "It’s just some unlucky coincidence."
+- id: 50
+  text: "It’s never done that before."
+- id: 51
+  text: "It’s never shown unexpected behavior like this before."
+- id: 52
+  text: "It’s not a code problem — our users need more training."
+- id: 53
+  text: "I’ll have to fix that at a later date."
+- id: 54
+  text: "I’m not familiar with it so I didn’t fix it in case I made it worse."
+- id: 55
+  text: "I’m not getting any error codes."
+- id: 56
+  text: "I’m not sure as I’ve never had a look at how that works before."
+- id: 57
+  text: "I’m still working on that as we speak."
+- id: 58
+  text: "I’m surprised it was working at all."
+- id: 59
+  text: "I’m surprised it works as well as it does."
+- id: 60
+  text: "Management insisted we wouldn’t need to waste our time writing unit tests."
+- id: 61
+  text: "Maybe somebody forgot to pay our hosting company."
+- id: 62
+  text: "My time was split in a way that meant I couldn’t do either project properly"
+- id: 63
+  text: "No one told me so I was forced to assume which way to do that."
+- id: 64
+  text: "Nobody asked me how long it would actually take."
+- id: 65
+  text: "Nobody has ever complained about it."
+- id: 66
+  text: "Oh, that was just a temporary fix."
+- id: 67
+  text: "Oh, that was only supposed to be a placeholder."
+- id: 68
+  text: "Oh, you said you DIDN’T want that to happen?"
+- id: 69
+  text: "Our code quality is no worse than anyone else in the industry."
+- id: 70
+  text: "Our hardware is too slow to cope with demand."
+- id: 71
+  text: "Our internet connection must not be working."
+- id: 72
+  text: "Our redundant systems must have failed as well."
+- id: 73
+  text: "Please ignore that, it’s for debugging"
+- id: 74
+  text: "Somebody must have changed my code."
+- id: 75
+  text: "THIS can’t be the source of THAT."
+- id: 76
+  text: "That behaviour is in the original specification."
+- id: 77
+  text: "That code seemed so simple I didn’t think it needed testing."
+- id: 78
+  text: "That error means it was successful."
+- id: 79
+  text: "That feature was slated for phase two."
+- id: 80
+  text: "That feature would be outside the scope."
+- id: 81
+  text: "That important email must have been marked as spam."
+- id: 82
+  text: "That isn’t covered by my job description."
+- id: 83
+  text: "That process requires human oversight that nobody was providing."
+- id: 84
+  text: "That was literally a one in a million error."
+- id: 85
+  text: "That wasn’t in the original specification."
+- id: 86
+  text: "That worked perfectly when I developed it."
+- id: 87
+  text: "That wouldn’t be economically feasible."
+- id: 88
+  text: "That’s already fixed, it just hasn’t taken effect yet."
+- id: 89
+  text: "That’s interesting, how did you manage to make it do that?"
+- id: 90
+  text: "That’s not a bug it’s a configuration issue."
+- id: 91
+  text: "That’s the fault of the graphic designer."
+- id: 92
+  text: "The accounting department must have cancelled that subscription."
+- id: 93
+  text: "The client must have been hacked."
+- id: 94
+  text: "The client wanted it changed at the last minute."
+- id: 95
+  text: "The code is compiling."
+- id: 96
+  text: "The DNS hasn’t propagated yet."
+- id: 97
+  text: "The download must have been corrupted."
+- id: 98
+  text: "The existing design makes it difficult to do the right thing."
+- id: 99
+  text: "The marketing department made us put that there."
+- id: 100
+  text: "The person responsible doesn’t work here anymore."
+- id: 101
+  text: "The problem seems to be with our legacy software."
+- id: 102
+  text: "The program has never collected that information."
+- id: 103
+  text: "The project manager said no one would want that feature"
+- id: 104
+  text: "The project manager told me to do it that way."
+- id: 105
+  text: "The request must have dropped some packets."
+- id: 106
+  text: "The specifications were ambiguous."
+- id: 107
+  text: "The third party documentation doesn’t exist."
+- id: 108
+  text: "The user must not know how to use it."
+- id: 109
+  text: "There must be something strange in your data."
+- id: 110
+  text: "There was too little data to bother with the extra functionality at the time."
+- id: 111
+  text: "There’s currently a problem with our hosting company."
+- id: 112
+  text: "This code was not supposed to go in to production yet."
+- id: 113
+  text: "This is a previously known bug you told me not to work on yet."
+- id: 114
+  text: "We didn’t have enough time to peer review the final changes."
+- id: 115
+  text: "Well done, you found my easter egg!"
+- id: 116
+  text: "Well, at least it displays a very pretty error."
+- id: 117
+  text: "Well, at least we know not to try that again."
+- id: 118
+  text: "Well, that’s a first."
+- id: 119
+  text: "What did I tell you about using parts of the system you don’t understand?"
+- id: 120
+  text: "What did you type in wrong to get it to crash?"
+- id: 121
+  text: "Where were you when the program blew up?"
+- id: 122
+  text: "Why do you want to do it that way?"
+- id: 123
+  text: "You must have done something wrong."
+- id: 124
+  text: "You’re doing it wrong."
+- id: 125
+  text: "You must have the wrong version."
