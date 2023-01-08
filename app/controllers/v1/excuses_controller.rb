@@ -6,7 +6,7 @@ module V1
 
     # GET /excuses
     def index
-      @excuses = Excuse.all.paginate(page: params[:page], per_page: 20)
+      @excuses = Excuse.all
       json_response(@excuses, blueprint: ExcuseBlueprint)
     end
 
