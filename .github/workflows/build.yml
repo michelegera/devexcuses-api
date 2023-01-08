@@ -19,19 +19,5 @@ jobs:
           gem install bundler
           bundle install --jobs 4 --retry 3
 
-      - name: Start Postgres
-        uses: harmon758/postgresql-action@v1
-        with:
-          postgresql version: "14"
-          postgresql user: ci_user
-          postgresql password: ci_password
-
-      - name: Setup database
-        env:
-          RAILS_ENV: test
-        run: |
-          cp config/database.ci.yml config/database.yml
-          bundle exec rails db:create db:schema:load
-
       - name: Run tests
         run: bundle exec rspec
