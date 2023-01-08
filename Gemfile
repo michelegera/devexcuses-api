@@ -7,7 +7,6 @@ ruby '3.2.0'
 gem 'active_hash', '~> 2'
 gem 'blueprinter'
 gem 'bootsnap', require: false
-gem 'oj'
 gem 'puma'
 gem 'rails', '~> 7.0.4'
 
