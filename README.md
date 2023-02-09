@@ -57,8 +57,8 @@ To add new excuses:
 
    ```yaml
    - id: 55
-       text_en: "I’m not getting any error codes."
-       # …
+     text_en: "I’m not getting any error codes."
+     # …
    ```
 
 4. Push to your fork and submit a PR.
@@ -71,9 +71,9 @@ To add a new language:
 
    ```yaml
    - id: 55
-       text_en: "I’m not getting any error codes."
-       # …
-       text_it: "Non ricevo alcun codice di errore."
+     text_en: "I’m not getting any error codes."
+     # …
+     text_it: "Non ricevo alcun codice di errore."
    ```
 
 4. Edit `models/excuse.rb` to add a `field` for the new language:
