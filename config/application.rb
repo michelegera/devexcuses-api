@@ -26,5 +26,9 @@ module DevExcusesApi
     # Middleware like session, flash, cookies can be added back manually.
     # Skip views, helpers and assets when generating a new resource.
     config.api_only = true
+
+    # i18n
+    config.i18n.default_locale = :en
+    config.i18n.available_locales = %i[en fr]
   end
 end
