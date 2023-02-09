@@ -19,7 +19,7 @@ The API is currently available in the following languages:
 To get a random excuse in a specific language, use a `locale` query parameter:
 
 ```bash
-curl https://api.devexcus.es/?locale=fr
+curl "https://api.devexcus.es/?locale=fr"
 ```
 
 ## Installation
