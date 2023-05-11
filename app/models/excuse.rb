@@ -5,6 +5,7 @@ class Excuse < ActiveYaml::Base
 
   field :text_en
   field :text_fr
+  field :text_it
 
   def text
     send("text_#{I18n.locale}")

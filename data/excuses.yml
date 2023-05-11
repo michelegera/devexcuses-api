@@ -1,499 +1,624 @@
 - id: 1
   text_en: "Actually, that’s a feature."
   text_fr: "En fait, c’est une fonctionnalité."
+  text_it: "A dire il vero, è una feature."
 
 - id: 2
   text_en: "Did you check for a virus on your system?"
   text_fr: "Avez-vous vérifié la présence d’un virus sur votre système?"
+  text_it: "Hai controllato se c'è un virus nel tuo sistema?"
 
 - id: 3
   text_en: "Even though it doesn’t work, how does it feel?"
   text_fr: "Même si ça ne marche pas, qu’est-ce que ça fait?"
+  text_it: "Anche se non funziona, come ti sembra?"
 
 - id: 4
   text_en: "Everything looks fine on my end."
   text_fr: "Tout va bien de mon côté."
+  text_it: "A me sembra tutto funzionante."
 
 - id: 5
   text_en: "How is that possible?"
   text_fr: "Comment est-ce possible?"
+  text_it: "Com'è possibile?"
 
 - id: 6
   text_en: "I broke that deliberately to do some testing."
   text_fr: "J’ai cassé ça délibérément pour faire des tests."
+  text_it: "L'ho rotto appositamente per fare un pò di test."
 
 - id: 7
   text_en: "I can’t make that a priority right now."
   text_fr: "Je ne peux pas en faire une priorité pour le moment."
+  text_it: "Non posso renderla una priorità al momento."
 
 - id: 8
   text_en: "I can’t test everything."
   text_fr: "Je ne peux pas tout tester."
+  text_it: "Non posso mica testare tutto."
 
 - id: 9
   text_en: "I couldn’t find any examples of how that can be done anywhere online."
   text_fr: "Je n’ai trouvé aucun exemple de la façon dont cela peut être fait n’importe où en ligne."
+  text_it: "Non sono riuscito a trovare da nessuna parte online esempi su come potrei farlo."
 
 - id: 10
   text_en: "I couldn’t find any library that can even do that."
   text_fr: "Je n’ai trouvé aucune bibliothèque capable de faire cela."
+  text_it: "Non sono riuscito a trovare nessuna libreria che potesse farlo."
 
 - id: 11
   text_en: "I did a quick fix last time but it broke when we rebooted."
   text_fr: "J’ai fait une solution rapide la dernière fois, mais elle s’est cassée lorsque nous avons redémarré."
+  text_it: "Ho scritto una soluzione veloce l'ultima volta, ma si è rotta quando ho riavviato."
 
 - id: 12
   text_en: "I didn’t anticipate that I would make any errors."
   text_fr: "Je n’avais pas prévu que je ferais des erreurs."
+  text_it: "Non ho previsto che avrei fatto degli errori."
 
 - id: 13
   text_en: "I didn’t create that part of the program."
   text_fr: "Je n’ai pas créé cette partie du programme."
+  text_it: "Non ho creato quella parte del programma."
 
 - id: 14
   text_en: "I didn’t receive a ticket for it."
   text_fr: "Je n’ai pas reçu de billet pour ça."
+  text_it: "Non ho ricevuto una segnalazione per quello."
 
 - id: 15
   text_en: "I forgot to commit the code that fixes that."
   text_fr: "J’ai oublié de valider le code qui corrige cela."
+  text_it: "Ho dimenticato di committare il codice che aggiusta quella cosa."
 
 - id: 16
   text_en: "I have never seen that before in my life."
   text_fr: "Je n’ai jamais vu ça de ma vie."
+  text_it: "Non ho mai visto quella cosa in tutta la mia vita."
 
 - id: 17
   text_en: "I have too many other high priority things to do right now."
   text_fr: "J’ai trop d’autres choses prioritaires à faire en ce moment."
+  text_it: "Ho troppe cose con priorità più alta al momento."
 
 - id: 18
   text_en: "I haven’t been able to reproduce that."
   text_fr: "Je n’ai pas réussi à reproduire ça."
+  text_it: "Non sono stato in grado di riprodurlo."
 
 - id: 19
   text_en: "I haven’t had a chance to run that code yet."
   text_fr: "Je n’ai pas encore eu l’occasion d’exécuter ce code."
+  text_it: "Non ho ancora avuto la possibilità di eseguire quel codice."
 
 - id: 20
   text_en: "I haven’t had any experience with that before."
   text_fr: "Je n’ai jamais eu d’expérience avec ça auparavant."
+  text_it: "Non ho ancora avuto esperienza con quello."
 
 - id: 21
   text_en: "I haven’t touched that code in weeks."
   text_fr: "Je n’ai pas touché à ce code depuis des semaines."
+  text_it: "Non ho toccato quel codice in settimane."
 
 - id: 22
   text_en: "I heard there was a solar flare today."
   text_fr: "J’ai entendu dire qu’il y avait eu une éruption solaire aujourd’hui."
+  text_it: "Ho sentito che ci sono stati venti solari oggi."
 
 - id: 23
   text_en: "I must have been stress-testing our production server."
   text_fr: "J’ai dû tester notre serveur de production sous contrainte."
+  text_it: "Devo aver stress testato il nostro server di produzione."
 
 - id: 24
   text_en: "I must not have understood what you were asking for."
   text_fr: "Je n’ai pas dû comprendre ce que vous demandiez."
+  text_it: "Devo non aver compreso quello che mi stavi chiedendo."
 
 - id: 25
   text_en: "I thought I finished that."
   text_fr: "Je pensais que j’avais fini ça."
+  text_it: "Pensavo di averlo finito."
 
 - id: 26
   text_en: "I thought he knew the context of what I was talking about."
   text_fr: "Je pensais qu’il connaissait le contexte de ce dont je parlais."
+  text_it: "Pensavo che sapesse il contesto di quello di cui stavo parlando."
 
 - id: 27
   text_en: "I thought you signed off on that."
   text_fr: "Je pensais que tu avais signé ça."
+  text_it: "Pensavo che lo avessi firmato."
 
 - id: 28
   text_en: "I told you yesterday it would be done by the end of today."
   text_fr: "Je vous ai dit hier que ce serait fait d’ici la fin d’aujourd’hui."
+  text_it: "Ti ho detto ieri che sarebbe finito entro oggi."
 
 - id: 29
   text_en: "I usually get a notification when that happens."
   text_fr: "Je reçois généralement une notification lorsque cela se produit."
+  text_it: "Di solito mi arriva una notifica quando succede."
 
 - id: 30
   text_en: "I was just fixing that."
   text_fr: "J’étais juste en train de réparer ça."
+  text_it: "Lo stavo giusto aggiustando."
 
 - id: 31
   text_en: "I was told to stop working on that when something important came up."
   text_fr: "On m’a dit d’arrêter de travailler là-dessus quand quelque chose d’important est arrivé."
+  text_it: "Mi è stato detto di smettere di lavorarci quando qualcosa di più importante è saltato fuori."
 
 - id: 32
   text_en: "In the interest of efficiency I only check my email for that on a Friday."
   text_fr: "Dans un souci d’efficacité, je ne vérifie mes e-mails que le vendredi."
+  text_it: "Per efficienza, controllo la mia mail solo di venerdì"
 
 - id: 33
   text_en: "It can’t be broken, it passes all unit tests."
   text_fr: "Il ne peut pas être cassé, il réussit tous les tests unitaires."
+  text_it: "Non può essere rotto: passa tutti i test automatizzati."
 
 - id: 34
   text_en: "It must be a hardware problem."
   text_fr: "Ce doit être un problème matériel."
+  text_it: "Dev'essere un problema di hardware"
 
 - id: 35
   text_en: "It must be because of a leap year."
   text_fr: "Ce doit être à cause d’une année bissextile."
+  text_it: "Dev'essere causato dall'anno bisestile."
 
 - id: 36
   text_en: "It probably won’t happen again."
   text_fr: "Cela ne se reproduira probablement plus."
+  text_it: "Probabilmente non risuccederà di nuovo"
 
 - id: 37
   text_en: "It was working in my head."
   text_fr: "Ça fonctionnait dans ma tête."
+  text_it: "Funzionava nella mia testa."
 
 - id: 38
   text_en: "It works for me."
   text_fr: "Ça marche pour moi."
+  text_it: "Funziona per me."
 
 - id: 39
   text_en: "It works, but it’s not been tested."
   text_fr: "Ça marche, mais ça n’a pas été testé."
+  text_it: "Funziona, ma non è stato testato."
 
 - id: 40
   text_en: "It would have taken twice as long to build it properly."
   text_fr: "Il aurait fallu deux fois plus de temps pour le construire correctement."
+  text_it: "Ci sarebbe voluto il doppio del tempo per buildarlo correttamente."
 
 - id: 41
   text_en: "It would take too long to rewrite the code from scratch."
   text_fr: "Cela prendrait trop de temps de réécrire le code à partir de zéro."
+  text_it: "Ci vorrebbe troppo per riscrivere il codice da zero."
 
 - id: 42
   text_en: "It’s a browser compatibility issue."
   text_fr: "C’est un problème de compatibilité de navigateur."
+  text_it: "È un problema di compatibilità col browser"
 
 - id: 43
   text_en: "It’s a character encoding issue."
   text_fr: "C’est un problème d’encodage de caractères."
+  text_it: "È un problema di encoding."
 
 - id: 44
   text_en: "It’s a compatibility issue."
   text_fr: "C’est un problème de compatibilité."
+  text_it: "È un problema di compatibilità."
 
 - id: 45
   text_en: "It’s a known bug with the programming language."
   text_fr: "C’est un bug connu du langage de programmation."
+  text_it: "È un bug conosciuto del linguaggio di programmazione."
 
 - id: 46
   text_en: "It’s a remote vendor issue."
   text_fr: "C’est un problème de fournisseur distant."
+  text_it: "È un problema del fornitore remoto."
 
 - id: 47
   text_en: "It’s always been like that."
   text_fr: "Ça a toujours été comme ça."
+  text_it: "È sempre stato così."
 
 - id: 48
   text_en: "It’s an unexpected emergent behaviour of several last minute abstractions."
   text_fr: "C’est un comportement émergent inattendu de plusieurs abstractions de dernière minute."
+  text_it: "È un comportamento emergente inaspettato di diverse astrazioni dell'ultimo minuto."
 
 - id: 49
   text_en: "It’s just some unlucky coincidence."
   text_fr: "C’est juste une coïncidence malchanceuse."
+  text_it: "È solo una coincidenza sfortunata."
 
 - id: 50
   text_en: "It’s never done that before."
   text_fr: "Ça n’a jamais été fait auparavant."
+  text_it: "Non è mai stato fatto prima."
 
 - id: 51
   text_en: "It’s never shown unexpected behavior like this before."
   text_fr: "Il n’a jamais montré un comportement inattendu comme celui-ci auparavant."
+  text_it: "Non ha mai mostrato comportamenti inaspettati come questo."
 
 - id: 52
   text_en: "It’s not a code problem — our users need more training."
   text_fr: "Ce n’est pas un problème de code - nos utilisateurs ont besoin de plus de formation."
+  text_it: "Non è un problema del codice: dobbiamo insegnare meglio i nostri utenti."
 
 - id: 53
   text_en: "I’ll have to fix that at a later date."
   text_fr: "Je devrai corriger cela à une date ultérieure."
+  text_it: "Dovrò correggerlo più avanti."
 
 - id: 54
   text_en: "I’m not familiar with it so I didn’t fix it in case I made it worse."
   text_fr: "Je ne le connais pas, donc je ne l’ai pas réparé au cas où je l’aurais aggravé."
+  text_it: "Non sono familiare con questa cosa, quindi non l'ho aggiustata per non peggiorare la situazione."
 
 - id: 55
   text_en: "I’m not getting any error codes."
   text_fr: "Je ne reçois aucun code d’erreur."
+  text_it: "Non sto ricevendo messaggi di errore."
 
 - id: 56
   text_en: "I’m not sure as I’ve never had a look at how that works before."
   text_fr: "Je ne suis pas sûr car je n’ai jamais vu comment cela fonctionne auparavant."
+  text_it: "Non ne sono sicuro, dato che non ho mai visto come funzionasse prima."
 
 - id: 57
   text_en: "I’m still working on that as we speak."
   text_fr: "Je travaille toujours là-dessus au moment où nous parlons."
+  text_it: "Ci sto lavorando anche ora che stiamo parlando."
 
 - id: 58
   text_en: "I’m surprised it was working at all."
   text_fr: "Je suis surpris que cela fonctionnait du tout."
+  text_it: "Sono sorpreso che funzionasse in primo luogo."
 
 - id: 59
   text_en: "I’m surprised it works as well as it does."
   text_fr: "Je suis surpris que cela fonctionne aussi bien."
+  text_it: "Sono sorpreso che funzioni così bene."
 
 - id: 60
   text_en: "Management insisted we wouldn’t need to waste our time writing unit tests."
   text_fr: "La direction a insisté sur le fait que nous n’aurions pas besoin de perdre notre temps à écrire des tests unitaires."
+  text_it: "L'amministrazione ha insistito perchè non sprecassimo tempo scrivendo dei test automatizzati."
 
 - id: 61
   text_en: "Maybe somebody forgot to pay our hosting company."
   text_fr: "Peut-être que quelqu’un a oublié de payer notre société d’hébergement."
+  text_it: "Forse qualcuno si è scordato di pagare l'host."
 
 - id: 62
   text_en: "My time was split in a way that meant I couldn’t do either project properly"
   text_fr: "Mon temps était divisé d’une manière qui signifiait que je ne pouvais pas faire correctement l’un ou l’autre des projets"
+  text_it: "Il mio tempo è stato diviso in un modo che mi ha impedito di lavorare a entrambi i progetti correttamente."
 
 - id: 63
   text_en: "No one told me so I was forced to assume which way to do that."
   text_fr: "Personne ne me l’a dit, j’ai donc été obligé de supposer comment faire cela."
+  text_it: "Nessuno me lo ha detto, quindi sono stato forzato ad inventarmi in quale modo farlo."
 
 - id: 64
   text_en: "Nobody asked me how long it would actually take."
   text_fr: "Personne ne m’a demandé combien de temps cela prendrait réellement."
+  text_it: "Nessuno mi ha chiesto quanto ci avrei messo."
 
 - id: 65
   text_en: "Nobody has ever complained about it."
   text_fr: "Personne ne s’en est jamais plaint."
+  text_it: "Nessuno si è mai lamentato."
 
 - id: 66
   text_en: "Oh, that was just a temporary fix."
   text_fr: "Oh, c’était juste une solution temporaire."
+  text_it: "Oh, quello era solo un fix temporaneo."
 
 - id: 67
   text_en: "Oh, that was only supposed to be a placeholder."
   text_fr: "Oh, c’était seulement censé être un espace réservé."
+  text_it: "Oh, dovevo solo essere un fermaposto."
 
 - id: 68
   text_en: "Oh, you said you DIDN’T want that to happen?"
   text_fr: "Oh, vous avez dit que vous ne vouliez pas que cela se produise?"
+  text_it: "Oh, avevi detto che NON volevi succedesse?"
 
 - id: 69
   text_en: "Our code quality is no worse than anyone else in the industry."
   text_fr: "La qualité de notre code n’est pas pire que n’importe qui d’autre dans l’industrie."
+  text_it: "La qualità del nostro codice non è peggiore di altri nell'industria."
 
 - id: 70
   text_en: "Our hardware is too slow to cope with demand."
   text_fr: "Notre matériel est trop lent pour faire face à la demande."
+  text_it: "Abbiamo hardware troppo lento per stare dietro alla domanda."
 
 - id: 71
   text_en: "Our internet connection must not be working."
   text_fr: "Notre connexion Internet ne doit pas fonctionner."
+  text_it: "Non starà funzionando la nostra connessione ad internet."
 
 - id: 72
   text_en: "Our redundant systems must have failed as well."
   text_fr: "Nos systèmes redondants doivent également avoir échoué."
+  text_it: "È fallito anche il nostro sistema ridondante."
 
 - id: 73
   text_en: "Please ignore that, it’s for debugging"
   text_fr: "Veuillez ignorer cela, c’est pour le débogage"
+  text_it: "Perfavore, ignoralo: è per debugging."
 
 - id: 74
   text_en: "Somebody must have changed my code."
   text_fr: "Quelqu’un a dû changer mon code."
+  text_it: "Qualcuno deve aver cambiato il mio codice"
 
 - id: 75
   text_en: "THIS can’t be the source of THAT."
   text_fr: "CECI ne peut pas être la source de CELA."
+  text_it: "QUESTO non può essere la fonte di QUELLO."
 
 - id: 76
   text_en: "That behaviour is in the original specification."
   text_fr: "Ce comportement est dans la spécification d’origine."
+  text_it: "Questo comportamento è la specifica richiesta all'inizio."
 
 - id: 77
   text_en: "That code seemed so simple I didn’t think it needed testing."
   text_fr: "Ce code semblait si simple que je ne pensais pas qu’il avait besoin d’être testé."
+  text_it: "Quel codice è così semplice che non pensavo avesse bisogno di test."
 
 - id: 78
   text_en: "That error means it was successful."
   text_fr: "Cette erreur signifie qu’il a réussi."
+  text_it: "Quell'errore significa che ha avuto successo."
 
 - id: 79
   text_en: "That feature was slated for phase two."
   text_fr: "Cette fonctionnalité était prévue pour la phase deux."
+  text_it: "Quella feature è stata programmata per la fase 2."
 
 - id: 80
   text_en: "That feature would be outside the scope."
   text_fr: "Cette fonctionnalité serait hors de portée."
+  text_it: "Quella feature sarebbe al di fuori del campo di applicazione."
 
 - id: 81
   text_en: "That important email must have been marked as spam."
   text_fr: "Cet e-mail important a dû être marqué comme spam."
+  text_it: "Quella mail importante deve essere stata marcata come spam."
 
 - id: 82
   text_en: "That isn’t covered by my job description."
   text_fr: "Ce n’est pas couvert par ma description de poste."
+  text_it: "Quello non tra le mansioni a me incaricate."
 
 - id: 83
   text_en: "That process requires human oversight that nobody was providing."
   text_fr: "Ce processus nécessite une surveillance humaine que personne ne fournissait."
+  text_it: "Quel processo necessita di supervisione umana, che nessuna stava fornendo."
 
 - id: 84
   text_en: "That was literally a one in a million error."
   text_fr: "C’était littéralement une erreur sur un million."
+  text_it: "Quello era letteralmente un errore da uno su un milione."
 
 - id: 85
   text_en: "That wasn’t in the original specification."
   text_fr: "Ce n’était pas dans la spécification d’origine."
+  text_it: "Quello non era tra le specifiche all'inizio."
 
 - id: 86
   text_en: "That worked perfectly when I developed it."
   text_fr: "Cela fonctionnait parfaitement quand je l’ai développé."
+  text_it: "Funzionava perfettamente quando l'ho sviluppato io."
 
 - id: 87
   text_en: "That wouldn’t be economically feasible."
   text_fr: "Ce ne serait pas économiquement faisable."
+  text_it: "Non sarebbe economicamente fattibile."
 
 - id: 88
   text_en: "That’s already fixed, it just hasn’t taken effect yet."
   text_fr: "C’est déjà corrigé, cela n’a tout simplement pas encore pris effet."
+  text_it: "È già stato aggiustato, semplicemente non ne vediamo ancora gli effetti."
 
 - id: 89
   text_en: "That’s interesting, how did you manage to make it do that?"
   text_fr: "C’est intéressant, comment avez-vous réussi à faire ça?"
+  text_it: "È interessante, come hai fatto a farglielo fare?"
 
 - id: 90
   text_en: "That’s not a bug it’s a configuration issue."
   text_fr: "Ce n’est pas un bug, c’est un problème de configuration."
+  text_it: "Non è un bug: è un problema di configurazione"
 
 - id: 91
   text_en: "That’s the fault of the graphic designer."
   text_fr: "C’est la faute du graphiste."
+  text_it: "È colpa del graphic designer. "
 
 - id: 92
   text_en: "The accounting department must have cancelled that subscription."
   text_fr: "Le service comptable a dû annuler cet abonnement."
+  text_it: "Il reparto contabilità deve aver cancellato quell'iscrizione."
 
 - id: 93
   text_en: "The client must have been hacked."
   text_fr: "Le client a dû être piraté."
+  text_it: "Il cliente deve essere stato hackerato."
 
 - id: 94
   text_en: "The client wanted it changed at the last minute."
   text_fr: "Le client voulait que ça change à la dernière minute."
+  text_it: "Il cliente ha voluto questo cambiamento all'ultimo minuto."
 
 - id: 95
   text_en: "The code is compiling."
   text_fr: "Le code est en cours de compilation."
+  text_it: "Il codice si sta compilando."
 
 - id: 96
   text_en: "The DNS hasn’t propagated yet."
   text_fr: "Le DNS ne s’est pas encore propagé."
+  text_it: "Il DNS non si è ancora propagato."
 
 - id: 97
   text_en: "The download must have been corrupted."
   text_fr: "Le téléchargement doit avoir été corrompu."
+  text_it: "Il file scaricato deve essere stato corrotto."
 
 - id: 98
   text_en: "The existing design makes it difficult to do the right thing."
   text_fr: "La conception existante rend difficile de faire ce qu’il faut."
+  text_it: "Il design di adesso rende difficile fare la cosa giusta."
 
 - id: 99
   text_en: "The marketing department made us put that there."
   text_fr: "Le service marketing nous a fait mettre ça là."
+  text_it: "Il reparto di marketing ce lo ha fatto mettere lì."
 
 - id: 100
   text_en: "The person responsible doesn’t work here anymore."
   text_fr: "La personne responsable ne travaille plus ici."
+  text_it: "La persona responsabile non lavora più qui."
 
 - id: 101
   text_en: "The problem seems to be with our legacy software."
   text_fr: "Le problème semble être avec notre logiciel hérité."
+  text_it: "Il problema sembra essere con il nostro software legacy."
 
 - id: 102
   text_en: "The program has never collected that information."
   text_fr: "Le programme n’a jamais collecté ces informations."
+  text_it: "Il programma non ha mai raccolto quell'informazione."
 
 - id: 103
   text_en: "The project manager said no one would want that feature"
   text_fr: "Le chef de projet a dit que personne ne voudrait de cette fonctionnalité"
+  text_it: "Il project manager ha detto che nessuno vorrebbe quella feature."
 
 - id: 104
   text_en: "The project manager told me to do it that way."
   text_fr: "Le chef de projet m’a dit de faire comme ça."
+  text_it: "Il project manager mi ha detto di farlo in quel modo."
 
 - id: 105
   text_en: "The request must have dropped some packets."
   text_fr: "La requête a dû abandonner des paquets."
+  text_it: "La richiesta deve aver perso dei pacchetti."
 
 - id: 106
   text_en: "The specifications were ambiguous."
   text_fr: "Les spécifications étaient ambiguës."
+  text_it: "Le specifiche erano ambigue."
 
 - id: 107
   text_en: "The third party documentation doesn’t exist."
   text_fr: "La documentation tierce n’existe pas."
+  text_it: "La documentazione della libreria non esiste."
 
 - id: 108
   text_en: "The user must not know how to use it."
   text_fr: "L’utilisateur ne doit pas savoir s’en servir."
+  text_it: "L'utente non sa come usarlo."
 
 - id: 109
   text_en: "There must be something strange in your data."
   text_fr: "Il doit y avoir quelque chose d’étrange dans vos données."
+  text_it: "Dev'esserci qualcosa di strano nei tuoi dati."
 
 - id: 110
   text_en: "There was too little data to bother with the extra functionality at the time."
   text_fr: "Il y avait trop peu de données pour se soucier des fonctionnalités supplémentaires à l’époque."
+  text_it: "Ai tempi c'erano troppi pochi dati per dare fastidio a quella funzionalità."
 
 - id: 111
   text_en: "There’s currently a problem with our hosting company."
   text_fr: "Il y a actuellement un problème avec notre société d’hébergement."
+  text_it: "Al momento c'è un problema con il servizio di hosting."
 
 - id: 112
   text_en: "This code was not supposed to go in to production yet."
   text_fr: "Ce code n’était pas encore censé entrer en production."
+  text_it: "Questo codice non sarebbe dovuto finire in produzione."
 
 - id: 113
   text_en: "This is a previously known bug you told me not to work on yet."
   text_fr: "Il s’agit d’un bogue déjà connu sur lequel vous m’avez dit de ne pas encore travailler."
+  text_it: "Questo è un bug già conosciuto, ma mi avevo detto di non lavorarci ancora."
 
 - id: 114
   text_en: "We didn’t have enough time to peer review the final changes."
   text_fr: "Nous n’avons pas eu assez de temps pour examiner les modifications finales."
+  text_it: "Non abbiamo avuto abbastanza tempo per controllare insieme gli ultimi cambiamenti."
 
 - id: 115
   text_en: "Well done, you found my easter egg!"
   text_fr: "Bien joué, vous avez trouvé mon œuf de Pâques !"
+  text_it: "Ottimo lavoro: hai trovato il mio Easter Egg"
 
 - id: 116
   text_en: "Well, at least it displays a very pretty error."
   text_fr: "Eh bien, au moins, il affiche une très jolie erreur."
+  text_it: "Bhe, almeno mostra un messaggio di errore molto bello."
 
 - id: 117
   text_en: "Well, at least we know not to try that again."
   text_fr: "Eh bien, au moins, nous savons qu’il ne faut pas réessayer."
+  text_it: "Bhe, almeno sappiamo che non dobbiamo riprovarci."
 
 - id: 118
   text_en: "Well, that’s a first."
   text_fr: "Eh bien, c’est une première."
+  text_it: "Bhe, è la prima volta che capita."
 
 - id: 119
   text_en: "What did I tell you about using parts of the system you don’t understand?"
   text_fr: "Qu’est-ce que je vous ai dit sur l’utilisation de parties du système que vous ne comprenez pas?"
+  text_it: "Cosa ti ho detto riguardo all'usare parti del sistema che non conosci?"
 
 - id: 120
   text_en: "What did you type in wrong to get it to crash?"
   text_fr: "Qu’est-ce que tu as mal tapé pour le faire planter?"
+  text_it: "Cos'hai scritto di sbagliato per farlo andare in crash?"
 
 - id: 121
   text_en: "Where were you when the program blew up?"
   text_fr: "Où étiez-vous quand le programme a explosé?"
+  text_it: "Dov'eri quando il programm è esploso?"
 
 - id: 122
   text_en: "Why do you want to do it that way?"
   text_fr: "Pourquoi veux-tu faire comme ça?"
+  text_it: "Perchè vuoi farlo in quel modo?"
 
 - id: 123
   text_en: "You must have done something wrong."
   text_fr: "Tu as dû faire quelque chose de mal."
+  text_it: "Devi aver fatto qualcosa di sbagliato."
 
 - id: 124
   text_en: "You’re doing it wrong."
   text_fr: "Vous le faites mal."
+  text_it: "Lo stai facendo male."
 
 - id: 125
   text_en: "You must have the wrong version."
   text_fr: "Vous devez avoir la mauvaise version."
+  text_it: "Probabilmente hai la versione sbagliata."
