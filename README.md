@@ -66,7 +66,13 @@ To add a new language:
 
 1. Fork the repository into your account
 2. Branch into a feature branch, e.g. `i8n/it`
-3. Add translated excuses in `data/excuses.yml` using the following format:
+3. Add a new locale in `config/application.rb`
+
+   ```ruby
+   config.i18n.available_locales = %i[en fr it]
+   ```
+
+4. Add translated excuses in `data/excuses.yml` using the following format:
 
    ```yaml
    - id: 55
@@ -75,13 +81,13 @@ To add a new language:
      text_it: "Non ricevo alcun codice di errore."
    ```
 
-4. Edit `models/excuse.rb` to add a `field` for the new language:
+5. Edit `models/excuse.rb` to add a `field` for the new language:
 
    ```ruby
    field :text_it
    ```
 
-5. Push to your fork and submit a PR.
+6. Push to your fork and submit a PR.
 
 All contributions are very welcome.
 
