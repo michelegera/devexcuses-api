@@ -8,7 +8,7 @@ gem 'active_hash', '~> 2'
 gem 'blueprinter'
 gem 'bootsnap', require: false
 gem 'puma'
-gem 'rails', '~> 7.0.4'
+gem 'rails', '~> 7.0.5'
 
 group :development, :test do
   gem 'rspec-rails'
