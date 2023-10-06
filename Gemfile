@@ -8,7 +8,7 @@ gem 'active_hash', '~> 2'
 gem 'blueprinter'
 gem 'bootsnap', require: false
 gem 'puma'
-gem 'rails', '~> 7.0.8'
+gem 'rails', '~> 7.1.0'
 gem 'rack-cors'
 
 group :development, :test do
