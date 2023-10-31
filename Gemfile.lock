@@ -80,7 +80,7 @@ GEM
     base64 (0.1.1)
     bigdecimal (3.1.4)
     blueprinter (0.30.0)
-    bootsnap (1.16.0)
+    bootsnap (1.17.0)
       msgpack (~> 1.2)
     builder (3.2.4)
     childprocess (4.1.0)
@@ -114,7 +114,7 @@ GEM
     marcel (1.0.2)
     mini_mime (1.1.5)
     minitest (5.20.0)
-    msgpack (1.6.0)
+    msgpack (1.7.2)
     mutex_m (0.1.2)
     net-imap (0.4.1)
       date
