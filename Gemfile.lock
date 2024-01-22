@@ -80,7 +80,7 @@ GEM
     ast (2.4.2)
     base64 (0.2.0)
     bigdecimal (3.1.6)
-    blueprinter (1.0.0)
+    blueprinter (1.0.1)
     bootsnap (1.17.1)
       msgpack (~> 1.2)
     builder (3.2.4)
