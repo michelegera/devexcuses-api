@@ -40,12 +40,6 @@ curl "https://api.devexcus.es/?locale=fr"
 
     bundle exec rspec
 
-## In the wild
-
-This API is used to power the following projects:
-
-- [Wasp `Dev Excuses app` tutorial][wasp]
-
 ## Contributing
 
 To add new excuses:
