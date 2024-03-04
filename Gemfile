@@ -9,7 +9,7 @@ gem 'blueprinter'
 gem 'bootsnap', require: false
 gem 'puma'
 gem 'rails', '~> 7.1.3'
-gem 'rack-cors', '< 2.0.1'
+gem 'rack-cors', '< 2.0.2'
 
 group :development, :test do
   gem 'rspec-rails'
