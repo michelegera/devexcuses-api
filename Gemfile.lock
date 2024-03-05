@@ -253,7 +253,7 @@ DEPENDENCIES
   bootsnap
   overcommit
   puma
-  rack-cors (< 2.0.3)
+  rack-cors
   rails (~> 7.1.3)
   rspec-rails
   rubocop-rails
