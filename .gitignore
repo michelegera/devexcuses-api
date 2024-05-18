@@ -20,3 +20,6 @@
 
 # Ignore localhost certificates
 localhost*.pem
+
+# Ignore decryption key
+/config/master.key
