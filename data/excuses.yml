@@ -627,3 +627,8 @@
   text_en: "You used the wrong compiling options in the build I made."
   text_fr: "Vous avez utilisé les mauvaises options de compilation dans la version que j'ai créée."
   text_it: "Hai utilizzato le opzioni di compilazione sbagliate nella build che ho realizzato."
+
+- id: 127
+  text_en: "I got pulled into another project that needed to be done urgently."
+  text_fr: "J'ai été entraîné dans un autre projet qui devait être réalisé de toute urgence."
+  text_it: "Sono stato coinvolto in un altro progetto che doveva essere realizzato con urgenza."
