@@ -622,3 +622,8 @@
   text_en: "You must have the wrong version."
   text_fr: "Vous devez avoir la mauvaise version."
   text_it: "Probabilmente hai la versione sbagliata."
+
+- id: 126
+  text_en: "You used the wrong compiling options in the build I made."
+  text_fr: "Vous avez utilisé les mauvaises options de compilation dans la version que j'ai créée."
+  text_it: "Hai utilizzato le opzioni di compilazione sbagliate nella build che ho realizzato."
