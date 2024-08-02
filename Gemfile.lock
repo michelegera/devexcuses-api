@@ -142,7 +142,7 @@ GEM
       stringio
     puma (6.4.2)
       nio4r (~> 2.0)
-    racc (1.8.0)
+    racc (1.8.1)
     rack (3.1.7)
     rack-cors (2.0.2)
       rack (>= 2.0.0)
@@ -189,7 +189,7 @@ GEM
     regexp_parser (2.9.2)
     reline (0.5.9)
       io-console (~> 0.5)
-    rexml (3.3.2)
+    rexml (3.3.4)
       strscan
     rspec-core (3.13.0)
       rspec-support (~> 3.13.0)
@@ -208,7 +208,7 @@ GEM
       rspec-mocks (~> 3.13)
       rspec-support (~> 3.13)
     rspec-support (3.13.1)
-    rubocop (1.65.0)
+    rubocop (1.65.1)
       json (~> 2.3)
       language_server-protocol (>= 3.17.0)
       parallel (~> 1.10)
@@ -240,7 +240,7 @@ GEM
     websocket-driver (0.7.6)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
-    zeitwerk (2.6.16)
+    zeitwerk (2.6.17)
 
 PLATFORMS
   x86_64-darwin-22
