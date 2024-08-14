@@ -224,7 +224,7 @@ GEM
       rubocop-ast (>= 1.31.1, < 2.0)
     ruby-progressbar (1.13.0)
     securerandom (0.3.1)
-    shoulda-matchers (6.3.0)
+    shoulda-matchers (6.3.1)
       activesupport (>= 5.2.0)
     stringio (3.1.1)
     strscan (3.1.0)
