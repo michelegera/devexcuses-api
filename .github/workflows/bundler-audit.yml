@@ -1,6 +1,7 @@
 name: bundler-audit
 
 on:
+  workflow_dispatch:
   pull_request:
   schedule:
     - cron: "0 0 * * *"
