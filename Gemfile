@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 ruby '3.4.4'
 
-gem 'active_hash', '~> 2'
+gem 'active_hash', '~> 4'
 gem 'blueprinter'
 gem 'bootsnap', require: false
 gem 'puma'
