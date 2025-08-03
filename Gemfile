@@ -8,8 +8,8 @@ gem 'active_hash', '~> 2'
 gem 'blueprinter'
 gem 'bootsnap', require: false
 gem 'puma'
-gem 'rails', '~> 8.0.2'
 gem 'rack-cors'
+gem 'rails', '~> 8.0.2'
 
 group :development, :test do
   gem 'rspec-rails'
