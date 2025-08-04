@@ -6,7 +6,7 @@ module V1
 
     # GET /excuses
     def index
-      @excuses = Excuse.all
+      @excuses = Excuse.all.to_a
       json_response(@excuses, blueprint: ExcuseBlueprint)
     end
 
