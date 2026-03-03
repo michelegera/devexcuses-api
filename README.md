@@ -7,7 +7,7 @@
 `devexcuses-api` provides a modern, RESTful, scalable solution to developers’
 common problem of finding an excuse to justify their sloppy work.
 
-Visit https://api.devexcus.es/ to get your random excuse!
+Visit https://devexcuses-api.onrender.com/ to get your random excuse!
 
 ## Translations
 
@@ -19,7 +19,7 @@ The API is currently available in the following languages:
 To get a random excuse in a specific language, use a `locale` query parameter:
 
 ```bash
-curl "https://api.devexcus.es/?locale=fr"
+curl "https://devexcuses-api.onrender.com/?locale=fr"
 ```
 
 ## Installation
