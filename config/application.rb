@@ -27,8 +27,7 @@ module DevExcusesApi
     # Skip views, helpers and assets when generating a new resource.
     config.api_only = true
 
-    # `to_time` will always preserve the full timezone rather than offset of the receiver in Rails 8.1.
-    config.active_support.to_time_preserves_timezone = :zone
+    # `to_time` preserves the full timezone rather than the offset of the receiver.
 
     # i18n
     config.i18n.default_locale = :en
