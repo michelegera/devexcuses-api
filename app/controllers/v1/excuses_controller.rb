@@ -24,7 +24,7 @@ module V1
     private
 
     def set_excuse
-      @excuse = Excuse.find(params[:id])
+      @excuse = Excuse.find(params.expect(:id))
     end
   end
 end

@@ -9,12 +9,12 @@ class ApiVersion
   end
 
   def matches?(request)
-    check_headers(request.headers) || default
+    check_headers?(request.headers) || default
   end
 
   private
 
-  def check_headers(headers)
+  def check_headers?(headers)
     accept = headers[:accept]
     accept&.include?("application/vnd.excuses.#{version}+json")
   end
