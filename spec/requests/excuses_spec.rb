@@ -25,6 +25,7 @@ RSpec.describe 'Excuses API', type: :request do
       it 'returns the excuse' do
         expect(json).not_to be_empty
         expect(json['id']).to eq(excuse_id)
+        expect(json['text']).to be_present
       end
 
       it 'returns status code 200' do
@@ -54,6 +55,25 @@ RSpec.describe 'Excuses API', type: :request do
 
     it 'returns status code 200' do
       expect(response).to have_http_status(200)
+    end
+  end
+
+  # The payload is serialized by Blueprinter before it reaches Rails, so the
+  # excuse text is emitted verbatim: no HTML escaping is applied to it. This
+  # pins that contract so a serializer change cannot silently mangle the API
+  # output.
+  describe 'GET /excuses/:id with HTML-sensitive characters' do
+    before do
+      allow(Excuse).to receive(:find).and_return(
+        Excuse.new(id: 1, text_en: 'Fish & chips <b>bold</b>')
+      )
+      get '/excuses/1'
+    end
+
+    it 'returns the text verbatim, without HTML escaping' do
+      expect(response.body).to include('Fish & chips <b>bold</b>')
+      expect(response.body).not_to include('\u0026')
+      expect(response.body).not_to include('\u003c')
     end
   end
 end

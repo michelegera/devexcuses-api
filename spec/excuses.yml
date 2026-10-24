@@ -1,10 +1,24 @@
 - id: 1
-  text: "I’m sorry, I can’t come to work today. I have a headache."
+  text_en: "I’m sorry, I can’t come to work today. I have a headache."
+  text_fr: "Désolé, je ne peux pas venir au travail aujourd’hui. J’ai mal à la tête."
+  text_it: "Mi dispiace, oggi non posso venire a lavoro. Ho mal di testa."
+
 - id: 2
-  text: "I’m sorry, I can’t come to work today. I have a stomachache."
+  text_en: "I’m sorry, I can’t come to work today. I have a stomachache."
+  text_fr: "Désolé, je ne peux pas venir au travail aujourd’hui. J’ai mal à l’estomac."
+  text_it: "Mi dispiace, oggi non posso venire a lavoro. Ho mal di stomaco."
+
 - id: 3
-  text: "I’m sorry, I can’t come to work today. I have a fever."
+  text_en: "I’m sorry, I can’t come to work today. I have a fever."
+  text_fr: "Désolé, je ne peux pas venir au travail aujourd’hui. J’ai de la fièvre."
+  text_it: "Mi dispiace, oggi non posso venire a lavoro. Ho la febbre."
+
 - id: 4
-  text: "I’m sorry, I can’t come to work today. I have a cold."
+  text_en: "I’m sorry, I can’t come to work today. I have a cold."
+  text_fr: "Désolé, je ne peux pas venir au travail aujourd’hui. J’ai un rhume."
+  text_it: "Mi dispiace, oggi non posso venire a lavoro. Ho il raffreddore."
+
 - id: 5
-  text: "I’m sorry, I can’t come to work today. I have a sore throat."
+  text_en: "I’m sorry, I can’t come to work today. I have a sore throat."
+  text_fr: "Désolé, je ne peux pas venir au travail aujourd’hui. J’ai mal à la gorge."
+  text_it: "Mi dispiace, oggi non posso venire a lavoro. Ho mal di gola."
