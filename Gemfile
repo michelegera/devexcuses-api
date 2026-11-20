@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-ruby '3.4.11'
+ruby '4.0.10'
 
 gem 'active_hash', '~> 4'
 gem 'blueprinter'
